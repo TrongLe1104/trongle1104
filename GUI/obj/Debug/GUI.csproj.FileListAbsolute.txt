@@ -1,0 +1,273 @@
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe.config
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.pdb
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.pdb
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.pdb
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.pdb
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmQuanLy.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.exe
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.pdb
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmSach.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTacGia.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNXB.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTHD.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTPN.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDoanhThu.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EnvDTE.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\stdole.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.xml
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form1.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportHoaDon.rdlc
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form2.resources
+D:\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportPhieuNhap.rdlc
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportHoaDon.rdlc
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportPhieuNhap.rdlc
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe.config
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.pdb
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EnvDTE.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\stdole.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.pdb
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.pdb
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.xml
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.pdb
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form1.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form2.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTHD.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTPN.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDoanhThu.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNXB.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmQuanLy.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmSach.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTacGia.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.exe
+D:\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.pdb
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportHoaDon.rdlc
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ReportPhieuNhap.rdlc
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe.config
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.exe
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\GUI.pdb
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EnvDTE.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\stdole.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\BLL.pdb
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DTO.pdb
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.xml
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\DAL.pdb
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form1.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Form2.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTHD.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmCTPN.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmDoanhThu.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmNXB.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmQuanLy.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmSach.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTacGia.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.exe
+D:\DAI HOC\HocKy6\DoAn LTQL\QL Cua Hang Sach\QLBanSach\GUI\obj\Debug\GUI.pdb
